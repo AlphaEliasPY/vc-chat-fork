@@ -1,9 +1,9 @@
 {
   "name": "AlphaMusic",
-  "logo": "https://telegra.ph/file/36ff1b571aa11df5812de.jpg",
+  "logo": "https://telegra.ph/file/36ff1b571aa11df581de.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/TeamDaisyX/AlphaMusic",
+  "repository": "https://github.com/AlphaEliasPY/vc-chat-fork",
   "stack": "container",
   "buildpacks": [
    {
